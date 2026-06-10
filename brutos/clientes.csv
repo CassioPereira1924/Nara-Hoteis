@@ -1,0 +1,302 @@
+id_cliente;nome;cidade_origem;estado_origem;faixa_etaria;tipo_cliente
+1;Otavio Reis;São Paulo;SP;18-25;PJ
+2;Larissa Sousa;Curitiba;SC;18-25;pessoa fisica
+3;Tatiana Coelho;Rio de Janeiro;CE;65+;Corporativo
+4;Wilson Duarte;Brasília;AM;26-35;corporativo
+5;Gabriela Lima;Rio de Janeiro;SP;46-55;Pessoa Física
+6;Ulisses Brito;Brasília;RS;56-65;Pessoa Física
+7;Kleber Pires;São Paulo;ES;65+;pessoa fisica
+8;Olivia Freitas;Brasília;PA;18-25;Corporativo
+9;Wesley Araujo;Belo Horizonte;ES;;Corporativo
+10;Ivan Azevedo;Curitiba;PE;26-35;pf
+11;Roberta Leite;São Paulo;PR;18-25;Pessoa Física
+12;Nicolas Cunha;Fortaleza;DF;65+;Corporativo
+13;João Pereira;Recife;BA;26-35;Pessoa Física
+14;Larissa Sousa;Rio de Janeiro;SC;36-45;PF
+15;  Henrique Rocha ;Recife;MG;;Pessoa Física
+16;Marcos Andrade;São Paulo;RS;;Corporativo
+17;Roberta Leite;Salvador;GO;36-45;Corporativo
+18;Gustavo Vieira;Curitiba;AM;26-35;pf
+19;João Pereira;Brasília;PR;26-35;Pessoa Física
+20;Thiago Matos  ;Fortaleza;ES;;Pessoa Física
+21;Elena Santos;Salvador;AM;56-65;Pessoa Física
+22;Helena Borges;Curitiba;PA;56-65;Corporativo
+23;Tatiana Coelho;Curitiba;BA;46-55;Corporativo
+24;Elena Santos;Rio de Janeiro;PR;18-25;PF
+25;Olivia Freitas;Curitiba;SP;18-25;corporativo
+26;Ivan Azevedo;São Paulo;MG;65+;Corporativo
+27;Gabriela Lima;São Paulo;CE;46-55;Corporativo
+28;Diego Ferreira;Fortaleza;SC;65+;PJ
+29;Isabela Martins;São Paulo;SC;;Corporativo
+30;  Diego Ferreira ;Belo Horizonte;CE;56-65;Pessoa Física
+31;Abel Correia;Rio de Janeiro;RS;46-55;Pessoa Física
+32;Yuri Castro;Fortaleza;BA;46-55;Corporativo
+33;João Pereira;Brasília;ES;36-45;Pessoa Física
+34;Diego Ferreira;São Paulo;RJ;56-65;Corporativo
+35;Lucas Souza;Curitiba;SP;56-65;pessoa fisica
+36;Larissa Sousa;Salvador;DF;18-25;Pessoa Física
+37;Nicolas Cunha;Salvador;CE;65+;Corporativo
+38;Daniela Ramos;São Paulo;PR;18-25;Pessoa Física
+39;Ivan Azevedo;Curitiba;ES;;Corporativo
+40;Xuxa Farias  ;Rio de Janeiro;BA;26-35;Corporativo
+41;Quincy Braga;Salvador;PA;56-65;PJ
+42;Henrique Rocha;Curitiba;SP;65+;Pessoa Física
+43;Roberta Leite;Recife;CE;;Corporativo
+44;Rafael Cardoso;Fortaleza;RJ;18-25;Corporativo
+45;  Julia Monteiro ;Belo Horizonte;PE;46-55;Pessoa Física
+46;Ivan Azevedo;Rio de Janeiro;RJ;36-45;PF
+47;Wesley Araujo;Recife;ES;65+;Pessoa Física
+48;Natalia Campos;Recife;PE;26-35;Pessoa Física
+49;Bruno Costa;Curitiba;MG;65+;Corporativo
+50;Rafael Cardoso;Curitiba;MG;65+;PF
+51;Daniela Ramos;Salvador;PR;36-45;Pessoa Física
+52;Elena Santos;Brasília;AM;36-45;Corporativo
+53;Bruno Costa;Recife;SP;;Pessoa Física
+54;Wesley Araujo;Curitiba;PE;36-45;Corporativo
+55;Quezia Nunes;Curitiba;Rio de Janeiro;65+;Corporativo
+56;Xuxa Farias;Salvador;SC;18-25;Corporativo
+57;Gustavo Vieira;Curitiba;BA;65+;Corporativo
+58;Abel Correia;Rio de Janeiro;CE;46-55;Pessoa Física
+59;Thiago Matos;Fortaleza;BA;26-35;Corporativo
+60;  Carlos Neto ;São Paulo;CE;26-35;Corporativo
+61;Sara Teixeira;Salvador;GO;65+;Corporativo
+62;Olivia Freitas;São Paulo;AM;26-35;pessoa fisica
+63;Daniela Ramos;Belo Horizonte;SC;65+;Pessoa Física
+64;Patricia Vaz;Fortaleza;PE;18-25;pessoa fisica
+65;Diego Ferreira;Brasília;GO;26-35;Pessoa Física
+66;Wilson Duarte;Fortaleza;RS;56-65;Corporativo
+67;Carlos Neto;Salvador;BA;26-35;Corporativo
+68;Carlos Neto;São Paulo;SP;65+;Corporativo
+69;Isabela Martins;Recife;MG;;Corporativo
+70;Victor Gomes;Rio de Janeiro;GO;46-55;Corporativo
+71;Wilson Duarte;Recife;DF;46-55;Corporativo
+72;Ivan Azevedo;Recife;PE;65+;pf
+73;Victor Gomes;Rio de Janeiro;CE;65+;Corporativo
+74;Zara Moraes;Belo Horizonte;DF;56-65;Pessoa Física
+75;  Diego Ferreira ;Recife;BA;46-55;Corporativo
+76;Rafael Cardoso;Rio de Janeiro;AM;46-55;Corporativo
+77;Wesley Araujo;Curitiba;ES;65+;Pessoa Física
+78;Marina Barbosa;Curitiba;PA;18-25;Pessoa Física
+79;Daniela Ramos;São Paulo;PE;36-45;Corporativo
+80;Ximena Godoi  ;Recife;PA;26-35;PJ
+81;Zara Moraes;Salvador;PE;26-35;Pessoa Física
+82;Roberta Leite;Brasília;DF;18-25;Pessoa Física
+83;Ana Silva;Fortaleza;PA;46-55;Corporativo
+84;Tatiana Coelho;Fortaleza;MG;46-55;Pessoa Física
+85;Daniela Ramos;Salvador;SC;65+;corporativo
+86;Carlos Neto;Fortaleza;ES;46-55;Corporativo
+87;Nicolas Cunha;Rio de Janeiro;PR;36-45;Corporativo
+88;Helena Borges;Fortaleza;ES;18-25;Pessoa Física
+89;Patricia Vaz;Curitiba;PE;46-55;PJ
+90;  Thiago Matos ;Brasília;CE;56-65;Corporativo
+91;Wesley Araujo;Brasília;PE;46-55;corporativo
+92;Henrique Rocha;Salvador;PE;56-65;Pessoa Física
+93;Gabriela Lima;Belo Horizonte;PA;;corporativo
+94;Rafael Cardoso;Fortaleza;RJ;18-25;PJ
+95;Gabriela Lima;Rio de Janeiro;PA;18-25;Corporativo
+96;Quezia Nunes;Rio de Janeiro;PA;;Pessoa Física
+97;João Pereira;Recife;MG;56-65;corporativo
+98;Marcos Andrade;Salvador;DF;56-65;Pessoa Física
+99;Larissa Sousa;Curitiba;SC;36-45;Pessoa Física
+100;Otavio Reis  ;Rio de Janeiro;ES;;pessoa fisica
+101;Abel Correia;Fortaleza;RS;65+;corporativo
+102;Elena Santos;Curitiba;CE;26-35;Corporativo
+103;Beatriz Dias;São Paulo;SP;56-65;Pessoa Física
+104;Diego Ferreira;Recife;MG;36-45;Corporativo
+105;  Rafael Cardoso ;Brasília;GO;56-65;Corporativo
+106;Marcos Andrade;Rio de Janeiro;BA;18-25;Pessoa Física
+107;Wilson Duarte;Fortaleza;CE;36-45;pessoa fisica
+108;Rafael Cardoso;Brasília;MG;;Corporativo
+109;Abel Correia;Salvador;PR;36-45;Pessoa Física
+110;Quincy Braga;Recife;SC;56-65;Pessoa Física
+111;Gustavo Vieira;Fortaleza;PA;18-25;corporativo
+112;Otavio Reis;Fortaleza;RS;18-25;PF
+113;Henrique Rocha;Recife;RJ;;Pessoa Física
+114;Felipe Oliveira;Salvador;ES;18-25;Corporativo
+115;Gustavo Vieira;Belo Horizonte;PE;36-45;Corporativo
+116;Yuri Castro;Recife;ES;56-65;pf
+117;Victor Gomes;Fortaleza;AM;56-65;Corporativo
+118;João Pereira;Fortaleza;RS;56-65;Corporativo
+119;Ursula Pinto;Rio de Janeiro;PA;26-35;pessoa fisica
+120;  Ursula Pinto ;Belo Horizonte;PE;46-55;Corporativo
+121;Fernanda Cruz;Fortaleza;RJ;26-35;Corporativo
+122;Ana Silva;Salvador;PE;;Corporativo
+123;Victor Gomes;Recife;DF;65+;Corporativo
+124;Ursula Pinto;Salvador;CE;;PJ
+125;Olivia Freitas;São Paulo;PE;18-25;Corporativo
+126;Carlos Neto;Salvador;MG;65+;PJ
+127;Wesley Araujo;Belo Horizonte;PR;46-55;Pessoa Física
+128;Karen Alves;Belo Horizonte;MG;18-25;corporativo
+129;Olivia Freitas;Fortaleza;RS;65+;Corporativo
+130;Sara Teixeira;Salvador;CE;56-65;Pessoa Física
+131;Otavio Reis;Fortaleza;SC;65+;Corporativo
+132;Gabriela Lima;Recife;ES;46-55;Corporativo
+133;Rafael Cardoso;Salvador;RJ;56-65;Pessoa Física
+134;Ximena Godoi;Belo Horizonte;AM;26-35;corporativo
+135;  Otavio Reis ;Belo Horizonte;SP;65+;Pessoa Física
+136;Felipe Oliveira;Brasília;BA;36-45;PJ
+137;Helena Borges;Salvador;GO;36-45;Pessoa Física
+138;Vanessa Cavalcanti;Curitiba;PA;36-45;PF
+139;Roberta Leite;Recife;PE;65+;Corporativo
+140;Ana Silva  ;Recife;BA;56-65;Pessoa Física
+141;Otavio Reis;Brasília;PR;18-25;Pessoa Física
+142;Natalia Campos;Recife;ES;65+;Pessoa Física
+143;Henrique Rocha;Belo Horizonte;MG;;Pessoa Física
+144;Yuri Castro;São Paulo;RS;36-45;Corporativo
+145;Fernanda Cruz;Curitiba;DF;46-55;Corporativo
+146;Xuxa Farias;Recife;SP;65+;Corporativo
+147;Rafael Cardoso;Rio de Janeiro;ES;18-25;corporativo
+148;Diego Ferreira;Curitiba;AM;36-45;Pessoa Física
+149;Larissa Sousa;Salvador;ES;26-35;Corporativo
+150;  João Pereira ;Belo Horizonte;MG;56-65;PJ
+151;Ana Silva;Recife;PR;26-35;Corporativo
+152;Helena Borges;São Paulo;SP;65+;Pessoa Física
+153;Carlos Neto;Salvador;GO;26-35;Pessoa Física
+154;Daniela Ramos;São Paulo;CE;18-25;Pessoa Física
+155;Fernanda Cruz;Belo Horizonte;PE;46-55;Pessoa Física
+156;Rafael Cardoso;Recife;DF;65+;Corporativo
+157;Gabriela Lima;Curitiba;AM;65+;Pessoa Física
+158;Beatriz Dias;São Paulo;RS;26-35;Corporativo
+159;Ursula Pinto;São Paulo;SC;36-45;corporativo
+160;Felipe Oliveira  ;Belo Horizonte;PA;18-25;Pessoa Física
+161;Julia Monteiro;Recife;RJ;56-65;Corporativo
+162;Ulisses Brito;Fortaleza;RJ;36-45;Corporativo
+163;Olivia Freitas;Curitiba;PA;18-25;Corporativo
+164;Beatriz Dias;Rio de Janeiro;PA;56-65;Pessoa Física
+165;  Lucas Souza ;Belo Horizonte;BA;65+;Corporativo
+166;Kleber Pires;Curitiba;CE;;Pessoa Física
+167;Yuri Castro;São Paulo;SC;46-55;Corporativo
+168;Diego Ferreira;Fortaleza;MG;26-35;pf
+169;Marcos Andrade;São Paulo;RS;46-55;Corporativo
+170;Sara Teixeira;Rio de Janeiro;CE;65+;Corporativo
+171;Ana Silva;São Paulo;ES;36-45;Pessoa Física
+172;Ana Silva;Brasília;RS;65+;Corporativo
+173;Elena Santos;Brasília;SC;;Pessoa Física
+174;Kleber Pires;Rio de Janeiro;SC;56-65;Corporativo
+175;Ursula Pinto;São Paulo;MG;;Corporativo
+176;Paulo Ribeiro;Brasília;SC;56-65;Corporativo
+177;Olivia Freitas;Brasília;PR;26-35;PF
+178;Wesley Araujo;Belo Horizonte;PE;65+;PF
+179;Wilson Duarte;Fortaleza;AM;65+;Pessoa Física
+180;  Roberta Leite ;São Paulo;DF;65+;Corporativo
+181;Eduardo Lopes;São Paulo;RS;65+;Corporativo
+182;Thiago Matos;São Paulo;RS;;Pessoa Física
+183;Natalia Campos;Rio de Janeiro;DF;56-65;Corporativo
+184;Carlos Neto;Rio de Janeiro;AM;56-65;Pessoa Física
+185;Carlos Neto;Fortaleza;SP;36-45;pessoa fisica
+186;Carlos Neto;Brasília;GO;56-65;Pessoa Física
+187;Roberta Leite;Salvador;DF;18-25;PJ
+188;Quezia Nunes;Brasília;PE;65+;Pessoa Física
+189;Thiago Matos;Recife;CE;;Corporativo
+190;Patricia Vaz;São Paulo;AM;36-45;Pessoa Física
+191;Patricia Vaz;Brasília;CE;46-55;Corporativo
+192;Ximena Godoi;São Paulo;RS;26-35;pessoa fisica
+193;Gustavo Vieira;Recife;AM;56-65;Pessoa Física
+194;João Pereira;Curitiba;MG;26-35;PF
+195;  Carlos Neto ;Fortaleza;DF;36-45;corporativo
+196;Marina Barbosa;Recife;PR;65+;Corporativo
+197;Karen Alves;Brasília;PA;26-35;PF
+198;Julia Monteiro;Belo Horizonte;SP;65+;Pessoa Física
+199;Beatriz Dias;Recife;SP;26-35;Corporativo
+200;Gustavo Vieira  ;São Paulo;PR;;Corporativo
+201;Tatiana Coelho;Belo Horizonte;CE;36-45;pf
+202;Wilson Duarte;Curitiba;PE;;Corporativo
+203;João Pereira;Rio de Janeiro;GO;65+;Corporativo
+204;Paulo Ribeiro;Rio de Janeiro;SC;65+;Corporativo
+205;Otavio Reis;Brasília;GO;;pf
+206;Paulo Ribeiro;São Paulo;DF;46-55;PF
+207;Helena Borges;Brasília;GO;56-65;Pessoa Física
+208;Quezia Nunes;São Paulo;PE;18-25;Corporativo
+209;Ximena Godoi;Belo Horizonte;DF;65+;Corporativo
+210;  Ximena Godoi ;Fortaleza;CE;;Corporativo
+211;Carla Mendes;Salvador;BA;26-35;Pessoa Física
+212;Gustavo Vieira;Brasília;SC;56-65;Corporativo
+213;Ximena Godoi;Recife;rj;65+;Corporativo
+214;Vanessa Cavalcanti;Salvador;RS;46-55;Corporativo
+215;Felipe Oliveira;Salvador;PE;46-55;Pessoa Física
+216;Ursula Pinto;Recife;SP;18-25;Corporativo
+217;Karen Alves;Recife;PE;46-55;Corporativo
+218;Rafael Cardoso;Belo Horizonte;CE;18-25;Pessoa Física
+219;Bruno Costa;Brasília;MG;56-65;PJ
+220;Xuxa Farias  ;Brasília;SC;56-65;Pessoa Física
+221;Carlos Neto;Curitiba;AM;18-25;Pessoa Física
+222;Henrique Rocha;Salvador;RJ;65+;Pessoa Física
+223;Ximena Godoi;Fortaleza;BA;65+;Corporativo
+224;Marina Barbosa;São Paulo;SP;26-35;Pessoa Física
+225;  Roberta Leite ;Salvador;PA;36-45;Corporativo
+226;Karen Alves;Curitiba;PE;65+;Pessoa Física
+227;Isabela Martins;Belo Horizonte;ES;46-55;Pessoa Física
+228;Natalia Campos;Recife;SP;18-25;Corporativo
+229;Ximena Godoi;Fortaleza;SC;;Pessoa Física
+230;Roberta Leite;Belo Horizonte;GO;36-45;Pessoa Física
+231;Ximena Godoi;Belo Horizonte;MG;46-55;Pessoa Física
+232;Ursula Pinto;São Paulo;PE;26-35;Corporativo
+233;Quezia Nunes;Belo Horizonte;ES;65+;Corporativo
+234;Larissa Sousa;Rio de Janeiro;DF;26-35;Pessoa Física
+235;Bruno Costa;Rio de Janeiro;SP;18-25;Corporativo
+236;Fernanda Cruz;Recife;CE;56-65;Corporativo
+237;Thiago Matos;Brasília;RS;18-25;Pessoa Física
+238;Marcos Andrade;Belo Horizonte;MG;36-45;Corporativo
+239;Wilson Duarte;Curitiba;PR;56-65;Pessoa Física
+240;  João Pereira ;Belo Horizonte;SP;18-25;Corporativo
+241;Ursula Pinto;Fortaleza;DF;65+;corporativo
+242;Fernanda Cruz;Curitiba;BA;46-55;Pessoa Física
+243;Nicolas Cunha;Fortaleza;DF;36-45;Pessoa Física
+244;Sara Teixeira;Recife;GO;18-25;Pessoa Física
+245;Xuxa Farias;São Paulo;RJ;46-55;pessoa fisica
+246;Yuri Castro;Belo Horizonte;GO;46-55;Corporativo
+247;Gabriela Lima;Recife;SC;36-45;Corporativo
+248;Gustavo Vieira;Fortaleza;Rio de Janeiro;18-25;Pessoa Física
+249;João Pereira;Salvador;DF;56-65;Pessoa Física
+250;Larissa Sousa;Brasília;PR;56-65;Corporativo
+251;Victor Gomes;Rio de Janeiro;CE;18-25;Corporativo
+252;Marcos Andrade;Recife;RS;36-45;Pessoa Física
+253;João Pereira;Rio de Janeiro;PA;65+;Pessoa Física
+254;Carlos Neto;Fortaleza;PR;46-55;pessoa fisica
+255;  Vanessa Cavalcanti ;Fortaleza;PE;18-25;Pessoa Física
+256;Helena Borges;Salvador;SC;36-45;Pessoa Física
+257;Natalia Campos;Salvador;RS;26-35;pf
+258;Ximena Godoi;Salvador;BA;65+;Pessoa Física
+259;Sara Teixeira;Belo Horizonte;SP;56-65;Corporativo
+260;Sara Teixeira  ;Fortaleza;RJ;36-45;Pessoa Física
+261;Nicolas Cunha;Curitiba;ES;56-65;Corporativo
+262;Paulo Ribeiro;Fortaleza;RJ;65+;PF
+263;Gabriela Lima;Fortaleza;CE;26-35;Pessoa Física
+264;Eduardo Lopes;São Paulo;CE;26-35;Corporativo
+265;Patricia Vaz;Belo Horizonte;DF;26-35;pessoa fisica
+266;Carla Mendes;Salvador;PA;46-55;Corporativo
+267;Carla Mendes;Fortaleza;RJ;36-45;Pessoa Física
+268;Isabela Martins;Fortaleza;PA;56-65;Corporativo
+269;Patricia Vaz;Curitiba;BA;65+;Pessoa Física
+270;  Lucas Souza ;São Paulo;DF;;Corporativo
+271;Lucas Souza;Fortaleza;MG;46-55;PJ
+272;Wilson Duarte;Brasília;BA;36-45;Corporativo
+273;Samuel Fonseca;Salvador;ES;18-25;pessoa fisica
+274;Samuel Fonseca;Fortaleza;SP;65+;corporativo
+275;João Pereira;Curitiba;RS;65+;Corporativo
+276;Wilson Duarte;São Paulo;ES;65+;Pessoa Física
+277;Diego Ferreira;Fortaleza;PA;56-65;PF
+278;Henrique Rocha;Fortaleza;CE;26-35;Corporativo
+279;Isabela Martins;Salvador;GO;46-55;Corporativo
+280;Ulisses Brito  ;Rio de Janeiro;RJ;46-55;Corporativo
+281;Beatriz Dias;Fortaleza;PR;65+;PF
+282;Carla Mendes;Recife;BA;46-55;Pessoa Física
+283;Xuxa Farias;Belo Horizonte;SC;46-55;Corporativo
+284;Patricia Vaz;Curitiba;PA;36-45;Pessoa Física
+285;  Ana Silva ;Recife;AM;18-25;Corporativo
+286;Olivia Freitas;São Paulo;ES;46-55;corporativo
+287;Carla Mendes;Curitiba;AM;65+;Corporativo
+288;Nicolas Cunha;Curitiba;SP;18-25;Pessoa Física
+289;Vanessa Cavalcanti;Rio de Janeiro;r.j.;46-55;corporativo
+290;Isabela Martins;Brasília;GO;36-45;Pessoa Física
+291;Paulo Ribeiro;Belo Horizonte;BA;26-35;pf
+292;Otavio Reis;Recife;CE;46-55;Corporativo
+293;Helena Borges;Fortaleza;PR;65+;Corporativo
+294;Paulo Ribeiro;Rio de Janeiro;PA;26-35;PJ
+295;Julia Monteiro;São Paulo;SC;46-55;pf
+296;Carlos Neto;Recife;PA;;Pessoa Física
+297;Roberta Leite;Curitiba;DF;56-65;pessoa fisica
+298;Eduardo Lopes;São Paulo;ES;36-45;PJ
+299;Vanessa Cavalcanti;Curitiba;AM;46-55;Pessoa Física
+300;  Julia Monteiro ;Brasília;PR;36-45;Corporativo
+47;Carlos Neto;Niterói;RJ;36-45;Corporativo

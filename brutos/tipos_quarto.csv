@@ -1,0 +1,7 @@
+id_tipo_quarto;descricao;capacidade_max;valor_diaria_base
+1;STANDARD;2;R$ 280,00
+2;superior ;2;R$ 420,00
+3;Deluxe;3;R$ 580,00
+4;Suite;4;R$ 950,00
+5;Suíte Master;4;R$ 1.500,00
+3;Deluxe;3;R$ 580,00
