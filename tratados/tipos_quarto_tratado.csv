@@ -1,0 +1,6 @@
+id_tipo_quarto;descricao;capacidade_max;valor_diaria_base
+1;Standard;2;280.0
+2;Superior;2;420.0
+3;Deluxe;3;580.0
+4;Suite;4;950.0
+5;Suíte Master;4;1500.0

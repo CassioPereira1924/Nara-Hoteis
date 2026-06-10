@@ -1,0 +1,13 @@
+id_unidade;nome_unidade;cidade;regiao;categoria_hotel;num_quartos_total
+1;NaraHoteis Ipanema;Rio de Janeiro;Capital;5 estrelas;80.0
+2;NaraHoteis Barra da Tijuca;Rio de Janeiro;Capital;4 estrelas;120.0
+3;NaraHoteis Centro;Rio de Janeiro;Capital;3 estrelas;60.0
+4;NaraHoteis Santa Teresa;Rio de Janeiro;Capital;4 estrelas;45.0
+5;NaraHoteis Nova Iguaçu Centro;Nova Iguaçu;Baixada Fluminense;3 estrelas;50.0
+6;NaraHoteis Nova Iguaçu Park;Nova Iguaçu;Baixada Fluminense;3 estrelas;55.0
+7;NaraHoteis Petrópolis;Petrópolis;Serra;5 estrelas;70.0
+8;NaraHoteis Teresópolis;Teresópolis;Serra;4 estrelas;60.0
+9;NaraHoteis Friburgo;Nova Friburgo;Serra;4 estrelas;55.0
+10;NaraHoteis Paraty;Paraty;Costa Verde;5 estrelas;65.0
+11;NaraHoteis Angra dos Reis;Angra dos Reis;Costa Verde;5 estrelas;90.0
+12;NaraHoteis Mangaratiba;Mangaratiba;Costa Verde;4 estrelas;50.0
